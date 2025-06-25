@@ -14,7 +14,7 @@ This project presents a groundbreaking hybrid computational framework that syste
 
 ## 🏗️ Project Pipeline
 
-![Project Pipeline](project_Pipeline.jpg)
+![Project Pipeline](assets/project_Pipeline.png)
 
 Our hybrid approach follows a systematic 4-phase implementation:
 
