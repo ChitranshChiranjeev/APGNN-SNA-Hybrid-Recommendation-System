@@ -84,7 +84,7 @@ Our hybrid approach follows a systematic 4-phase implementation:
 4. *Educational Tool*: Ideal for demonstrating evolution from classical to modern network science
 
 ## 📖 Citation
-[1] F. Scarselli, M. Gori, A. C. Tsoi, M. Hagenbuchner, and G. Monfardini, “The graph neural network model,” IEEE Transactions on Neural Networks, vol. 20, no. 1, pp. 61-80, Jan. 2009.
+[1] F. Scarselli, M. Gori, A. C. Tsoi, M. Hagenbuchner, and G. Monfardini, “The graph neural network model,” IEEE Transactions on Neural Networks, vol. 20, no. 1, pp. 61-80, Jan. 2009.  
 [2] P. Veliˇckovi´c, G. Cucurull, A. Casanova, A. Romero, P. Li`o, and Y. Bengio, “Graph attention networks,” in Proc. International Conference on Learning Representations, 2018.
 [3] S. Wu, Y. Tang, Y. Zhu, L. Wang, X. Xie, and T. Tan, “Session-based recommendation with graph neural networks,” in Proc. AAAI Conference on Artificial Intelligence, vol. 33, pp. 346-353, 2019.
 [4] L. C. Freeman, “Centrality in social networks conceptual clarification,” Social Networks, vol. 1, no. 3, pp. 215-239, 1978.
